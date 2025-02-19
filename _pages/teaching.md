@@ -5,6 +5,8 @@ title: teaching
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 6
+created: 2025-02-19T00:36
+updated: 2025-02-19T00:36
 ---
 
 For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.

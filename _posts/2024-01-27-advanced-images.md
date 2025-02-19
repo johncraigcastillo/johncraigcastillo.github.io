@@ -9,6 +9,8 @@ thumbnail: assets/img/9.jpg
 images:
   compare: true
   slider: true
+created: 2025-02-19T00:36
+updated: 2025-02-19T00:36
 ---
 
 This is an example post with advanced image components.

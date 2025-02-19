@@ -6,6 +6,8 @@ img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
+created: 2025-02-19T00:36
+updated: 2025-02-19T00:36
 ---
 
 Every project has a beautiful feature showcase page.

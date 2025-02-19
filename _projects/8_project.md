@@ -6,6 +6,8 @@ img: assets/img/9.jpg
 importance: 2
 category: work
 giscus_comments: true
+created: 2025-02-19T00:36
+updated: 2025-02-19T00:36
 ---
 
 Every project has a beautiful feature showcase page.

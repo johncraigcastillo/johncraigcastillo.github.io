@@ -12,8 +12,10 @@ pagination:
   sort_field: date
   sort_reverse: true
   trail:
-    before: 1 # The number of links before the current page
-    after: 3 # The number of links after the current page
+    before: 1
+    after: 3
+created: 2025-02-19T00:36
+updated: 2025-02-19T00:36
 ---
 
 <div class="post">

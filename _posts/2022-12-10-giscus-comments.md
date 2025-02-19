@@ -7,6 +7,8 @@ tags: comments
 categories: sample-posts external-services
 giscus_comments: true
 related_posts: false
+created: 2025-02-19T00:36
+updated: 2025-02-19T00:36
 ---
 
 This post shows how to add GISCUS comments.

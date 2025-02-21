@@ -7,7 +7,7 @@ tags: formatting citation
 categories: sample-posts
 citation: true
 created: 2025-02-19T00:36
-updated: 2025-02-19T00:36
+updated: 2025-02-19T00:38
 ---
 
 This is an example post that can be cited. The content of the post ends here, while the citation information is automatically provided below. The only thing needed is for you to set the `citation` key in the front matter to `true`.

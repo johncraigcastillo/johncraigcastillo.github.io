@@ -10,7 +10,7 @@ related_posts: false
 toc:
   beginning: true
 created: 2025-02-19T00:36
-updated: 2025-02-19T00:36
+updated: 2025-02-19T00:38
 ---
 
 This post shows how to add a table of contents in the beginning of the post.

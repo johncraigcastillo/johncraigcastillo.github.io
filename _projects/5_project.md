@@ -6,7 +6,7 @@ img: assets/img/1.jpg
 importance: 3
 category: fun
 created: 2025-02-19T00:36
-updated: 2025-02-19T00:36
+updated: 2025-02-19T00:38
 ---
 
 Every project has a beautiful feature showcase page.

@@ -8,7 +8,7 @@ categories: sample-posts
 giscus_comments: true
 related_posts: true
 created: 2025-02-19T00:36
-updated: 2025-02-19T00:36
+updated: 2025-02-19T00:38
 ---
 
 This post shows how to add custom styles for blockquotes. Based on [jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook) implementation.

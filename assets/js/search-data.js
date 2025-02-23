@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-post-with-image-galleries",
+        },{id: "post-building-a-cybersecurity-home-lab-with-kvm-qemu",
+      
+        title: "Building a Cybersecurity Home Lab with KVM/QEMU",
+      
+      description: "Overview of my home lab setup",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/home-lab-setup/";
+        
+      },
+    },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
       
